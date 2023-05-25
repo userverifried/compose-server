@@ -1,0 +1,5 @@
+.env
+caddyfile
+
+data/
+.vscode/
